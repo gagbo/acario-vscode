@@ -1,14 +1,24 @@
 {
     "name": "acario",
-    "displayName": "acario",
-    "description": "dark theme with cold background and vivid colors",
+    "displayName": "Acario Theme",
+    "description": "Dark theme with cold background and vivid colors",
     "version": "0.0.1",
     "publisher": "gagbo",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.36.0"
     },
+    "galleryBanner": {
+        "color": "#0d0e16",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Acario"
     ],
     "contributes": {
         "themes": [
@@ -18,5 +28,13 @@
                 "path": "./themes/Acario-color-theme.json"
             }
         ]
+    },
+    "bugs": {
+        "url": "https://github.com/gagbo/acario-vscode/issues"
+    },
+    "homepage": "https://github.com/gagbo/acario-vscode/master/README.md",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/gagbo/acario-vscode"
     }
 }
