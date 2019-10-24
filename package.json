@@ -3,6 +3,7 @@
     "displayName": "acario",
     "description": "dark theme with cold background and vivid colors",
     "version": "0.0.1",
+    "publisher": "gagbo",
     "engines": {
         "vscode": "^1.36.0"
     },
